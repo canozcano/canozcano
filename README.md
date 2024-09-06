@@ -8,7 +8,7 @@
 
 
 
-## Glad to see you here! &nbsp; !
+## Glad to see you here!
 
 I am a full-stack developer and writer.
 
