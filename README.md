@@ -22,10 +22,8 @@ That's why I like to make things that make a difference.
 ### Talking about Personal Stuff:
 
 - 👨‍🎓 I'm a **Software Developer**
-- 🔭 I’m currently working on [Capslock Software](https://www.instagram.com/softwarecapslock/) platform
-- 👨‍🏫 I'm the **Community Leader and Founder** at [Capslock Software](www.capslocksoftware.com)
+- 🔭 I’m currently working on ARCA DEFENCE
 - 💬 Ask me about anything, I am happy to help
-- 📬 How to reach me: [can@capslocksoftware.com](mailto:can@capslocksoftware.com)
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
