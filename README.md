@@ -22,7 +22,7 @@ That's why I like to make things that make a difference.
 ### Talking about Personal Stuff:
 
 - 👨‍🎓 I'm a **Software Developer**
-- 🔭 I’m currently working on ARCA DEFENCE
+- 🔭 I’m currently working on ARCA DEFENSE
 - 💬 Ask me about anything, I am happy to help
 - 💪 This is where I write, code and solve problems:
 
